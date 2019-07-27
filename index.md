@@ -1,14 +1,20 @@
 ## ようこそ 
 
+~~~
 ようこそ！
 あなたはn人目の入場者です。
+~~~
 
 ここは石の遊び場です。色々参考になる情報上げていければいいなと思います。
 
-```markdown
-Hello,World!
+```c++
+#include<iostream>
+using namespace std;
+
+int main(){
+    cout<<"Hello,World"<<endl!
+}
 ```
-<h1>やったぜ。</h1>
 
 
 [twitter](https://twitter.com/rock_ishi)
