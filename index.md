@@ -10,4 +10,5 @@ Hello,World!
 ```
 <h1>やったぜ。</h1>
 
-Markdown記法について [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+[twitter](https://twitter.com/rock_ishi)
